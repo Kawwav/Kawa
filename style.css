@@ -1,0 +1,13 @@
+.image-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#kawa {
+    max-width: 500px; 
+    height: auto;
+}
+
+
